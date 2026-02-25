@@ -1,0 +1,459 @@
+[
+  {
+    "id": "EF1CC5BB-4785-4D8E-AB98-5FA4E00B6A66",
+    "name": "早餐",
+    "items": [
+      {
+        "id": "EDCD038C-036F-4C40-826F-61C88CD84DDD",
+        "name": "枫糖法式吐司",
+        "englishName": "Maple French Toast",
+        "photoCredit": "Joseph Gonzalez",
+        "price": 6,
+        "restrictions": ["G", "V"],
+        "description": "香甜、松软、热气腾腾。我们的法式吐司每天从加拿大枫树城新鲜空运而来，世界上所有的枫糖浆都产自那里。如果你相信的话，我们还有块地想卖给你……",
+        "calories": 650,
+        "attributeTitle": "食材",
+        "ingredients": [
+          {"name": "面包", "icon": "🍞"},
+          {"name": "枫糖", "icon": "🍁"},
+          {"name": "鸡蛋", "icon": "🥚"}
+        ]
+      },
+      {
+        "id": "36A7CC40-18C1-48E5-BCD8-3B42D43BEAEE",
+        "name": "经典松饼塔",
+        "englishName": "Stack-o-Pancakes",
+        "photoCredit": "Joseph Gonzalez",
+        "price": 8,
+        "restrictions": ["D", "G", "V"],
+        "description": "你得到了什么？松饼！有多少？整整一摞！绝对能让你吃得心满意足。",
+        "calories": 800,
+        "attributeTitle": "食材",
+        "ingredients": [
+          {"name": "松饼", "icon": "🥞"},
+          {"name": "黄油", "icon": "🧈"},
+          {"name": "蜂蜜", "icon": "🍯"}
+        ]
+      },
+      {
+        "id": "CFB8C2DB-3478-4A10-92FA-3D2A2D5324FB",
+        "name": "能量燕麦粥",
+        "englishName": "Power Muesli",
+        "photoCredit": "Hanny Naibaho",
+        "price": 5,
+        "restrictions": ["D", "N"],
+        "description": "普通的燕麦粥太无聊了？那是当然。这就是为什么我们提供“能量”燕麦粥——它和普通燕麦粥一样，只是我们在前面加了“能量”两个字，这样就可以卖得更贵。",
+        "calories": 350,
+        "attributeTitle": "食材",
+        "ingredients": [
+          {"name": "燕麦", "icon": "🥣"},
+          {"name": "坚果", "icon": "🥜"},
+          {"name": "谷物", "icon": "🌾"}
+        ]
+      },
+      {
+        "id": "8903A204-F5C1-4D5C-A0A1-5C0ECD27FDD7",
+        "name": "现烤羊角面包",
+        "englishName": "Fresh-baked Croissant",
+        "photoCredit": "Kavita Joshi Rai",
+        "price": 3,
+        "restrictions": ["D", "G"],
+        "description": "这其实就是我们从冷冻食品超市批量采购的普通羊角面包，但我们需要一些形容词来证明它的价格。所以，它要么是“现烤的”，要么是“正宗巴黎风味”。我们的法务团队认为后者可能会惹上麻烦。",
+        "calories": 400,
+        "attributeTitle": "食材",
+        "ingredients": [
+          {"name": "面团", "icon": "🥐"},
+          {"name": "黄油", "icon": "🧈"}
+        ]
+      },
+      {
+        "id": "82B28AFF-BB29-4186-AA07-04959180D81A",
+        "name": "英式全餐",
+        "englishName": "Full English",
+        "photoCredit": "Melissa Walker Horn",
+        "price": 12,
+        "restrictions": ["G"],
+        "description": "如果你喜欢在一整天的任何时候都能吃的早餐，那么这道菜非常适合你。",
+        "calories": 900,
+        "attributeTitle": "食材",
+        "ingredients": [
+          {"name": "香肠", "icon": "🌭"},
+          {"name": "鸡蛋", "icon": "🥚"},
+          {"name": "培根", "icon": "🥓"}
+        ]
+      },
+      {
+        "id": "190E1A9D-20A4-4F98-AA54-B192E1C4D7B9",
+        "name": "豪华燕麦粥",
+        "englishName": "Porridge Deluxe",
+        "photoCredit": "Monika Grabkowska",
+        "price": 4,
+        "restrictions": ["D", "N", "V"],
+        "description": "这真的只是燕麦粥。Bob，你从哪弄来的这张照片？我们的燕麦粥根本不长这样。谁有时间把燕麦粥做成这样？",
+        "calories": 300,
+        "attributeTitle": "食材",
+        "ingredients": [
+          {"name": "燕麦", "icon": "🥣"},
+          {"name": "牛奶", "icon": "🥛"}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "主菜",
+    "id": "3D97FAB4-50AC-40FC-9BF0-3F46BB6A92F5",
+    "items": [
+      {
+        "id": "D44AAEBC-BF4F-42CD-8C37-0FEF772A5B69",
+        "name": "奶油培根意面",
+        "englishName": "Penne Carbonara",
+        "photoCredit": "Brooke Lark",
+        "price": 15,
+        "restrictions": ["D", "G"],
+        "description": "有什么比厨师手工制作的奶油意面更好呢？当然是加了培根的！",
+        "calories": 750,
+        "attributeTitle": "食材",
+        "ingredients": [
+          {"name": "意面", "icon": "🍝"},
+          {"name": "培根", "icon": "🥓"},
+          {"name": "奶酪", "icon": "🧀"}
+        ]
+      },
+      {
+        "id": "2BAD20C5-D007-4BBE-B074-8CF0F256A42F",
+        "name": "蘑菇宽面",
+        "englishName": "Mushroom Tagliatelle",
+        "photoCredit": "Eaters Collective",
+        "price": 12,
+        "restrictions": ["D", "G", "V"],
+        "description": "如果你喜欢带点惊喜的意式美食，这是一道完美的菜。惊喜是什么？我们没放肉。",
+        "calories": 600,
+        "attributeTitle": "食材",
+        "ingredients": [
+          {"name": "意面", "icon": "🍝"},
+          {"name": "蘑菇", "icon": "🍄"}
+        ]
+      },
+      {
+        "id": "759527CB-1064-4082-A527-F04698F9D18F",
+        "name": "巨无霸汉堡",
+        "englishName": "Tower Burger",
+        "photoCredit": "Edward Guk",
+        "price": 12,
+        "restrictions": ["D", "G"],
+        "description": "相信我们：这个汉堡太高了，如果不把下巴弄脱臼，你根本咬不下去。",
+        "calories": 1200,
+        "attributeTitle": "食材",
+        "ingredients": [
+          {"name": "牛肉", "icon": "🥩"},
+          {"name": "奶酪", "icon": "🧀"},
+          {"name": "生菜", "icon": "🥬"}
+        ]
+      },
+      {
+        "id": "AD419CE6-50CC-4132-BE8E-B92B9DFE4D02",
+        "name": "泰式红咖喱",
+        "englishName": "Thai Red Curry",
+        "photoCredit": "Elli O.",
+        "price": 12,
+        "restrictions": ["S"],
+        "description": "这道菜与其说是“辣”，不如说是“烫”，如果你想点这道菜，请提前告诉我们，以便我们准备好消防车。",
+        "calories": 500,
+        "attributeTitle": "食材",
+        "ingredients": [
+          {"name": "咖喱", "icon": "🍛"},
+          {"name": "辣椒", "icon": "🌶️"}
+        ]
+      },
+      {
+        "id": "944AB773-16CA-48F9-BB64-BB0E482FE102",
+        "name": "阿利坎特海鲜饭",
+        "englishName": "Paella Alicante",
+        "photoCredit": "Cel Lisboa ",
+        "price": 14,
+        "restrictions": ["G", "S"],
+        "description": "这是阿利坎特风味的海鲜饭。我们不太清楚那是什么意思，但我们需要为去西班牙的公费旅游找个理由。Olé！",
+        "calories": 700,
+        "attributeTitle": "食材",
+        "ingredients": [
+          {"name": "米饭", "icon": "🍚"},
+          {"name": "鲜虾", "icon": "🦐"}
+        ]
+      },
+      {
+        "id": "024763B6-2577-4D04-9A4F-321F3EB19EA6",
+        "name": "超级轻食沙拉",
+        "englishName": "Superfood Salad",
+        "photoCredit": "Mgg Vitchakorn",
+        "price": 9,
+        "restrictions": ["N", "V"],
+        "description": "很多人相信羽衣甘蓝、菠菜等绿色蔬菜能给身体排毒。如果你也是其中之一，我们很乐意用这道沙拉赚你的钱。",
+        "calories": 320,
+        "attributeTitle": "食材",
+        "ingredients": [
+          {"name": "菠菜", "icon": "🍃"},
+          {"name": "番茄", "icon": "🍅"},
+          {"name": "黄瓜", "icon": "🥒"}
+        ]
+      },
+      {
+        "id": "22E8B9F0-94C1-43EC-9B19-34F22CA17B6B",
+        "name": "青酱蝴蝶面",
+        "englishName": "Pesto Farfalle",
+        "photoCredit": "Eaters Collective",
+        "price": 10,
+        "restrictions": ["G", "N", "V"],
+        "description": "便宜、管饱，而且颜色够绿，足以让你骗自己这是一顿健康的饭。我们的青酱蝴蝶面是由100%回收的领结制成的。",
+        "calories": 550,
+        "attributeTitle": "食材",
+        "ingredients": [
+          {"name": "意面", "icon": "🍝"},
+          {"name": "罗勒", "icon": "🌿"}
+        ]
+      },
+      {
+        "id": "DD20B3C1-438A-4657-BCFA-A0C6DA1AE7EE",
+        "name": "烤玉米棒",
+        "englishName": "Corn on the cob",
+        "photoCredit": "Dragne Marius",
+        "price": 6,
+        "restrictions": ["V"],
+        "description": "说真的，Bob？你想让我们把一根玉米棒卖6块钱？听着，我知道我们是一家时尚咖啡馆，但能买得起这个价位的人大概不想啃玉米棒。",
+        "calories": 150,
+        "attributeTitle": "食材",
+        "ingredients": [
+          {"name": "玉米", "icon": "🌽"},
+          {"name": "黄油", "icon": "🧈"}
+        ]
+      },
+      {
+        "id": "44FBAFC0-BEE0-4A02-9C57-B8ECDC1CE5E1",
+        "name": "菲力牛排",
+        "englishName": "Fillet Steak",
+        "photoCredit": "Alex Munsell",
+        "price": 20,
+        "restrictions": [],
+        "description": "这就是一块牛排。没有经过熟成，没有抹粗盐，也不是“手工切割”或者其他什么花里胡哨的词——它就是盘子上的一块牛肉。如果你态度好点，可能还会附赠红薯条。",
+        "calories": 550,
+        "attributeTitle": "食材",
+        "ingredients": [
+          {"name": "牛肉", "icon": "🥩"},
+          {"name": "黄油", "icon": "🧈"},
+          {"name": "盐", "icon": "🧂"},
+          {"name": "黑胡椒", "icon": "🌶️"}
+        ]
+      },
+      {
+        "id": "F0B4DF27-B293-4151-8480-FA46DFCA5BBB",
+        "name": "芝士烤吐司",
+        "englishName": "Cheese Toastie",
+        "photoCredit": "Asnim Asnim",
+        "price": 7,
+        "restrictions": ["G"],
+        "description": "这真的只是两片面包；没什么复杂的。哦，显然还有芝士。",
+        "calories": 450,
+        "attributeTitle": "食材",
+        "ingredients": [
+          {"name": "面包", "icon": "🍞"},
+          {"name": "奶酪", "icon": "🧀"}
+        ]
+      },
+      {
+        "id": "FD3BACF7-01AE-449D-8929-26C6F8EC90D5",
+        "name": "意大利香肠披萨",
+        "englishName": "Pepperoni Pizza",
+        "photoCredit": "Thomas Tucker",
+        "price": 14,
+        "restrictions": ["D", "G"],
+        "description": "我们的厨师花了好几年时间尝试各种正宗的那不勒斯披萨配方，但最后我们发现超市的一种冷冻披萨非常好吃，我们根本吃不出区别。",
+        "calories": 850,
+        "attributeTitle": "食材",
+        "ingredients": [
+          {"name": "面团", "icon": "🌾"},
+          {"name": "奶酪", "icon": "🧀"},
+          {"name": "香肠", "icon": "🥩"}
+        ]
+      },
+      {
+        "id": "F5BCE219-391D-4AAF-8DA7-D25096776D46",
+        "name": "素食披萨",
+        "englishName": "Veggie Pizza",
+        "photoCredit": "Cel Lisboa",
+        "price": 12,
+        "restrictions": ["D", "G", "V"],
+        "description": "这其实就是我们的意大利香肠披萨，只是我们把上面的萨拉米香肠挑掉，然后在冷水龙头下冲了几秒钟。",
+        "calories": 700,
+        "attributeTitle": "食材",
+        "ingredients": [
+          {"name": "面团", "icon": "🌾"},
+          {"name": "奶酪", "icon": "🧀"},
+          {"name": "番茄", "icon": "🍅"}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "甜点",
+    "id": "1C89DAFD-7653-4EF2-BF20-C51A159BAC43",
+    "items": [
+      {
+        "id": "AB7E38EA-05A7-426A-AFF3-B3A32B3E86BF",
+        "name": "草莓奶昔",
+        "englishName": "Strawberry Surprise",
+        "photoCredit": "Karly Gomez",
+        "price": 6,
+        "restrictions": ["D", "V"],
+        "description": "经典款的草莓和奶油组合，充满惊喜的甜蜜。",
+        "calories": 400,
+        "attributeTitle": "配料",
+        "ingredients": [
+          {"name": "草莓", "icon": "🍓"},
+          {"name": "奶油", "icon": "🍦"}
+        ]
+      },
+      {
+        "id": "758ABBE3-F338-4F7C-BAC7-8D61BC1FB329",
+        "name": "缤纷马卡龙",
+        "englishName": "Macarons Galore",
+        "photoCredit": "Mana",
+        "price": 8,
+        "restrictions": ["N", "V"],
+        "description": "当一、两个马卡龙都不够吃的时候，我们为你准备了四个马卡龙，充分满足你的渴望！",
+        "calories": 350,
+        "attributeTitle": "配料",
+        "ingredients": [
+          {"name": "杏仁", "icon": "🥜"},
+          {"name": "糖分", "icon": "🍬"}
+        ]
+      },
+      {
+        "id": "A73E2D2D-D53A-46D4-8829-62011EEF7DA4",
+        "name": "狂欢甜甜圈",
+        "englishName": "All Out Donuts",
+        "photoCredit": "Kobby Mendez",
+        "price": 5,
+        "restrictions": ["G", "V"],
+        "description": "甜甜圈！更多甜甜圈！具体你能拿到多少取决于当天的情况，我们基本上会把盘子塞满。",
+        "calories": 450,
+        "attributeTitle": "配料",
+        "ingredients": [
+          {"name": "面团", "icon": "🌾"},
+          {"name": "糖霜", "icon": "🧁"}
+        ]
+      },
+      {
+        "id": "971CFDDD-2AFA-418F-909F-D459CC6827CF",
+        "name": "超级圣代",
+        "englishName": "Super Sundae",
+        "photoCredit": "Camila Melim",
+        "price": 7,
+        "restrictions": ["D", "V"],
+        "description": "这不是普通的圣代——它是超级圣代！",
+        "calories": 500,
+        "attributeTitle": "配料",
+        "ingredients": [
+          {"name": "冰淇淋", "icon": "🍦"},
+          {"name": "樱桃", "icon": "🍒"}
+        ]
+      }
+    ]
+  },
+  {
+    "name": "饮品",
+    "id": "CE3C67F9-79E3-46E3-B134-362A52ABFE3C",
+    "items": [
+      {
+        "id": "A4D89AF9-190E-4409-B924-AABD13DBB6A4",
+        "name": "无酒精莫吉托",
+        "englishName": "Virgin Mojito",
+        "photoCredit": "Melissa Walker Horn",
+        "price": 5,
+        "restrictions": ["V"],
+        "description": "这基本上是一杯加入了薄荷与青柠的昂贵苏打水。我们会在里面插把小伞，让你觉得物超所值。",
+        "calories": 120,
+        "attributeTitle": "配方",
+        "ingredients": [
+          {"name": "薄荷", "icon": "🌿"},
+          {"name": "青柠", "icon": "🍋"},
+          {"name": "冰块", "icon": "🧊"},
+          {"name": "苏打水", "icon": "🥤"}
+        ]
+      },
+      {
+        "id": "FC201614-1418-4152-9469-087B27485D13",
+        "name": "草莓冰饮",
+        "englishName": "Strawberry Cooler",
+        "photoCredit": "Alex Loup",
+        "price": 6,
+        "restrictions": ["V"],
+        "description": "第一步：把冷冻草莓打碎。第三步：开喝！如果你看到了这句话，说明你已经自己弄清楚了第二步是什么。",
+        "calories": 150,
+        "attributeTitle": "配方",
+        "ingredients": [
+          {"name": "草莓", "icon": "🍓"},
+          {"name": "冰块", "icon": "🧊"}
+        ]
+      },
+      {
+        "id": "58CE3F3E-74E1-4C5F-A630-986B187788B5",
+        "name": "能量黑咖",
+        "englishName": "Powerhouse coffee",
+        "photoCredit": "Nathan Dumlao",
+        "price": 3,
+        "restrictions": ["V"],
+        "description": "就像白兰地是蒸馏过的葡萄酒一样，这就是蒸馏过的极浓咖啡，保证能让你瞬间清醒。",
+        "calories": 10,
+        "attributeTitle": "配方",
+        "ingredients": [
+          {"name": "咖啡", "icon": "☕️"},
+          {"name": "水", "icon": "💧"}
+        ]
+      },
+      {
+        "id": "71B872F2-3B5D-46D0-9D98-E696B4AE30E4",
+        "name": "墨西哥摩卡",
+        "englishName": "Mexican Mocha",
+        "photoCredit": "Nathan Dumlao",
+        "price": 7,
+        "restrictions": ["D", "V"],
+        "description": "如果你把微辣的墨西哥巧克力混入咖啡中会得到什么？这杯摩卡会给你答案。",
+        "calories": 250,
+        "attributeTitle": "配方",
+        "ingredients": [
+          {"name": "咖啡", "icon": "☕️"},
+          {"name": "牛奶", "icon": "🥛"},
+          {"name": "可可", "icon": "🍫"}
+        ]
+      },
+      {
+        "id": "DE58CEFF-7023-4B60-88CC-80C5B7BFB6EC",
+        "name": "菊花茶",
+        "englishName": "Chrysanthemum Tea",
+        "photoCredit": "Loverna Journey",
+        "price": 4,
+        "restrictions": ["V"],
+        "description": "这是一款清热降火的天然菊花茶，带有淡淡的花香。",
+        "calories": 5,
+        "attributeTitle": "配方",
+        "ingredients": [
+          {"name": "纯净水", "icon": "💧"},
+          {"name": "菊花", "icon": "🌼"}
+        ]
+      },
+      {
+        "id": "E7584DB6-2EAE-4178-ADB2-9E5DBD5215EA",
+        "name": "鲜榨橙汁",
+        "englishName": "Straight Up OJ",
+        "photoCredit": "Alexander Mils",
+        "price": 3,
+        "restrictions": ["V"],
+        "description": "100% 纯天然鲜榨橙汁，补充每日所需的维生素 C。",
+        "calories": 110,
+        "attributeTitle": "配方",
+        "ingredients": [
+          {"name": "鲜橙", "icon": "🍊"}
+        ]
+      }
+    ]
+  }
+]
