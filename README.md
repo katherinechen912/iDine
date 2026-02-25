@@ -4,17 +4,25 @@ A sleek, high-performance food ordering application built entirely with SwiftUI,
 ✨ The User Journey
 1. Immersive Splash Experience
 Custom Boot Animation: The journey begins with SplashView, featuring a smooth logo transition that sets the premium tone of the app.
-
-Dynamic Greeting: Personalized home screen headers that welcome users by name (e.g., "Welcome, Katherine!").
 <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-25 at 15 05 24" src="https://github.com/user-attachments/assets/7926c7e9-cedc-4121-b17e-a2694abc8736" />
+Dynamic Greeting: Personalized home screen headers that welcome users by name (e.g., "Welcome, Katherine!").
+
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-25 at 15 06 29" src="https://github.com/user-attachments/assets/158707e3-2fa5-4d1f-bc47-f4cb1fdc1bc3" />
+
 
 2. Glassmorphism Design Language
 Frosted Glass Components: Utilization of .ultraThinMaterial on FoodCard and ItemDetail components to create a layered, translucent aesthetic.
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-25 at 15 07 40" src="https://github.com/user-attachments/assets/607f2f4b-ba1f-4e80-937c-b4b9afff2212" />
+<img width="1206" height="2622" alt="simulator_screenshot_0B9AA854-FF8D-433F-B8D9-C76A7C9C6366" src="https://github.com/user-attachments/assets/498c7b64-9032-4ce4-84eb-81e01a690d13" />
 
 Subtle Glow Effects: Implementation of ultra-fine white overlays and soft shadows to achieve a "glowing edge" 3D effect.
 
 3. Advanced Customization
 Real-time Theme Engine: A global ThemeManager that allows users to switch primary color schemes instantly across all views.
+<img width="1206" height="2622" alt="simulator_screenshot_BCFDEBAD-E420-4F5C-B1DD-497BCE7ACF1D" src="https://github.com/user-attachments/assets/744280fd-8ddc-4e72-b4f2-563569372ef7" />
+<img width="1206" height="2622" alt="simulator_screenshot_BFAFFA42-0EFF-40A0-9A4E-D77FC32C7261" src="https://github.com/user-attachments/assets/8d79494f-89f1-44d1-a6d9-14294016f7cd" />
+<img width="1206" height="2622" alt="simulator_screenshot_D1F1DB1B-DBD5-44DB-80DE-D8595489ACD6" src="https://github.com/user-attachments/assets/4323f6ce-45a5-4a20-a003-89e7c4f514b0" />
+
 
 Localization Support: Full bilingual support (English and Chinese) driven by structured JSON data (menu_en.json and menu_zh.json).
 
