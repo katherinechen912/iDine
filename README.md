@@ -1,5 +1,6 @@
 🍽️ iDine: A Modern SwiftUI Culinary Experience
 A sleek, high-performance food ordering application built entirely with SwiftUI, featuring a sophisticated Glassmorphism design language and dynamic theme management.
+Demo: https://youtube.com/shorts/RWs7RjxzRqs?feature=share
 
 ✨ The User Journey
 1. Immersive Splash Experience
